@@ -1,4 +1,4 @@
-# Laboratoria_proyecto2_hipotesis
+# Laboratoria
 ## Proyecto 2: Hipótesis
 ### Validación de Hipótesis de Discográfica
 Se busca validar y refutar hipótesis con la finalidad de saber que es lo que le puede dar el exito a un artista o a una canciónEste proyecto tiene como objetivo validar y refutar hipótesis para identificar los factores que pueden contribuir al éxito de un artista o una canción. A través del análisis de datos y el uso de pruebas estadísticas, se busca entender las variables que influyen en el desempeño en plataformas de streaming y otros indicadores de popularidad musical.
