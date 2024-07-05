@@ -59,10 +59,50 @@ Y por último, proporcionar recomendaciones estratégicas basadas en los hallazg
 ##### Visualización de la Distribución:
 Se crearon dos histogramas en Power BI utilizando Python.
 - **Histograma de Playlists:** Muestra la frecuencia de playlists según una variable específica. La mayoría de las playlists se concentran en el primer intervalo, indicando una gran cantidad de playlists con valores bajos en esta variable.
-![](imagenes/histograma2.jpg)
+![](imagenes/histograma.jpg)
 
 - **Histograma de BPM:** Muestra la distribución de BPM en el conjunto de datos. Los BPM varían entre 75 y 200, con una mayor concentración en los rangos más bajos. Esto sugiere que las canciones con BPM más lentos son más comunes en el conjunto de datos.
 ![](imagenes/histograma2.jpg)
+
+#### Resultados
+##### Correlación entre variables
+- **Hipótesis 1**
+- **Correlación streams vs bpm:** -0.0023362
+- *Interpretación:* No hay correlación entre el éxito de la canción (medido por el número de streams) y los beats por minuto (bpm) de la canción.
+  
+- **Hipótesis 2**
+- **Correlación Spotify vs Deezer charts:** 0.6051478
+- *Interpretación:* Sí hay correlación entre las canciones populares de Spotify y las de Deezer.
+
+- **Correlación Spotify vs Apple charts:** 0.55180145
+- *Interpretación:* Sí hay correlación entre las canciones populares de Spotify y las de Apple Music.
+
+- **Correlación Spotify vs Shazam charts:** 0.6055872
+- *Interpretación:* Sí hay correlación entre las canciones populares de Spotify y las de Shazam.
+
+- **Hipótesis 3**
+- **Correlación Streams vs Playlist:** 0.79458876
+- *Interpretación:* Sí hay correlación entre que una canción salga en más playlists y sus números de streams.
+- **Hipótesis 4**
+- **Correlación Streams vs Total de canciones por artista:** 0.8027135
+- *Interpretación:* Sí hay correlación entre el número de canciones en Spotify de un artista y el mayor número de streams.
+- **Hipótesis 5**
+- **Correlación Streams vs Danceability:**-0.10550116
+- *Interpretación:* No hay correlación entre la danceability (bailabilidad) de la canción y el éxito de la misma.
+- **Correlación Streams vs Valence:** 0.04137056
+Interpretación: No hay correlación significativa entre el valence (positividad emocional) de la canción y el éxito de la misma.
+- **Correlación Streams vs Energy:** -0.0252682
+- *Interpretación:* No hay correlación entre la energía de la canción y el éxito de la misma.
+- **Correlación Streams vs Acousticness:** -0.025737
+- *Interpretación:* No hay correlación entre el acousticness (acústico) de la canción y el éxito de la misma.
+- **Correlación Streams vs Instrumentalness:** -0.04423449
+- *Interpretación:* No hay correlación entre el instrumentalness (instrumental) de la canción y el éxito de la misma.
+- **Correlación streams_liveness:** -0.01948088
+- *Interpretación:* No hay correlación entre el liveness (vivacidad) de la canción y el éxito de la misma.
+- **Correlación Streams vs Speechiness:** -0.11276317
+- *Interpretación:* No hay correlación entre el speechiness (hablabilidad) de la canción y el éxito de la misma.
+
+En resumen, la tabla muestra que hay correlaciones significativas entre el éxito de las canciones en Spotify y su presencia en otras plataformas (Deezer, Apple Music, Shazam), así como la inclusión en playlists y el número total de canciones de un artista. Sin embargo, no hay correlación significativa entre las características musicales específicas de las canciones (como bpm, danceability, valence, energy, etc.) y su éxito.
 
 
 
