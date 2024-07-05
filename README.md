@@ -59,8 +59,11 @@ Y por último, proporcionar recomendaciones estratégicas basadas en los hallazg
 ##### Visualización de la Distribución:
 Se crearon dos histogramas en Power BI utilizando Python.
 - **Histograma de Playlists:** Muestra la frecuencia de playlists según una variable específica. La mayoría de las playlists se concentran en el primer intervalo, indicando una gran cantidad de playlists con valores bajos en esta variable.
+![](imagenes/histograma1.jpg)
 
 - **Histograma de BPM:** Muestra la distribución de BPM en el conjunto de datos. Los BPM varían entre 75 y 200, con una mayor concentración en los rangos más bajos. Esto sugiere que las canciones con BPM más lentos son más comunes en el conjunto de datos.
+![](imagenes/histograma2.jpg)
+
 
 
 
