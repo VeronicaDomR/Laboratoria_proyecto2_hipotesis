@@ -101,9 +101,8 @@ Se crearon dos histogramas en Power BI utilizando Python.
     - *Interpretación:* No hay correlación entre la danceability (bailabilidad) de la canción y el éxito de la misma.
 - **Correlación Streams vs Valence:** 0.04137056
 
- ![](imagenes/valencestreams.png)
- 
-    - *Interpretación:* No hay correlación significativa entre el valence (positividad emocional) de la canción y el éxito de la misma.
+   ![](imagenes/valencestreams.png)
+     - *Interpretación:* No hay correlación significativa entre el valence (positividad emocional) de la canción y el éxito de la misma.
 - **Correlación Streams vs Energy:** -0.0252682
   
     ![](imagenes/energiastreams.png)
