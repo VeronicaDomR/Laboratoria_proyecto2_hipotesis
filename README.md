@@ -1,6 +1,7 @@
 # Laboratoria_proyecto2_hipotesis
 ## Proyecto 2: Hipótesis
 ### Validación de Hipótesis de Discográfica
+![](imagenes/streaming_musica.jpg)
 #### Objetivo
 Aumentar las posibilidades de éxito de la discográfica y del nuevo artista, mediante el análisis de una base de datos de Spotify, esto con la finalidad de refutar o confirmar las siguientes hipótesis:
 - Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de cantidad de streams en Spotify.
