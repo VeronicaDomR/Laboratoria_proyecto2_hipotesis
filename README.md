@@ -161,6 +161,11 @@ En resumen, la tabla muestra que hay correlaciones significativas entre el éxit
 ## Google Colab Notebook
 Puedes acceder a mi notebook en Google Colab haciendo clic [aquí](https://colab.research.google.com/drive/17cAeL7ujk76bEFqak3T37nXNFNcJIhUu#scrollTo=jBcSpuqunEbR).
 
+## Dashboard de Power BI
+
+Puedes acceder al PDF de mi dashboard de Power BI haciendo clic [aquí](https://acrobat.adobe.com/id/urn:aaid:sc:us:393df085-797b-488d-86f8-1acccc701472).
+
+
 
 
 
