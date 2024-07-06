@@ -23,18 +23,20 @@ El objetivo de este proyecto es aumentar las posibilidades de éxito de la disco
 - Las características de la canción influyen en el éxito en términos de cantidad de streams en Spotify.
 Y por último, proporcionar recomendaciones estratégicas basadas en los hallazgos.
 
-#### Trabajo en dupla
+## Trabajo en dupla
 - Alejandra Martínez 
 - Verónica Domínguez
-#### Herramientas:
+
+## Herramientas
 - BigQuery
 - Power BI
 - Google Colab
 
-#### Lenguajes:
+## Lenguajes
 - SQL en BigQuery 
 - Python en Google Colab
-#### Procesamiento y preparación de datos:
+
+## Procesamiento y preparación de datos
 1. Importación y Creación de Tablas en BigQuery:
 - Proyecto: Proyecto_Spotify
 - Tablas importadas: track_in_competition, track_in_spotify, track_technical_info
@@ -64,8 +66,8 @@ Y por último, proporcionar recomendaciones estratégicas basadas en los hallazg
 - Uso de tablas temporales para analizar el total de canciones por artista y la participación en playlists.
 - Consultas SQL con la estructura WITH para crear estas tablas auxiliares.
   
-#### Visualización y Análisis de Datos
-##### Visualización de la Distribución:
+## Visualización y Análisis de Datos
+### Visualización de la Distribución
 Se crearon dos histogramas en Power BI utilizando Python.
 - **Histograma de Playlists:** Muestra la frecuencia de playlists según una variable específica. La mayoría de las playlists se concentran en el primer intervalo, indicando una gran cantidad de playlists con valores bajos en esta variable.
 ![](imagenes/histograma.jpg)
@@ -73,8 +75,8 @@ Se crearon dos histogramas en Power BI utilizando Python.
 - **Histograma de BPM:** Muestra la distribución de BPM en el conjunto de datos. Los BPM varían entre 75 y 200, con una mayor concentración en los rangos más bajos. Esto sugiere que las canciones con BPM más lentos son más comunes en el conjunto de datos.
 ![](imagenes/histograma2.jpg)
 
-#### Resultados
-##### Correlación entre variables
+## Resultados
+### Correlación entre variables
 - **Hipótesis 1**
 - **Correlación streams vs bpm:** -0.0023362
 
