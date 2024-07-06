@@ -27,7 +27,7 @@ Y por último, proporcionar recomendaciones estratégicas basadas en los hallazg
 
 ### Trabajo en dupla
 - [Alejandra Martínez](https://github.com/Al3jandraMtz)
-- [Verónica Domínguez](https://github.com/tu-enlace-aqui)
+- [Verónica Domínguez](https://github.com/VeronicaDomR)
 
 ## Herramientas
 - BigQuery
