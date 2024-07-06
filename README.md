@@ -15,6 +15,7 @@ Se busca validar y refutar hipótesis con la finalidad de saber que es lo que le
 - [Correlación entre variables](#correlación-entre-variables)
 - [Prueba de Significancia](#prueba-de-significancia) 
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Recursos](#recursos)
 
   ## Introducción
 El objetivo de este proyecto es aumentar las posibilidades de éxito de la discográfica y del nuevo artista mediante el análisis de una base de datos de Spotify. Para lograr esto, se busca refutar o confirmar las siguientes hipótesis:
@@ -151,6 +152,10 @@ Hipótesis Alternativa (H1): Las canciones con un mayor BPM no tienen más éxit
 - **Colaboración con Artistas Reconocidos:** Trabajar con artistas que tienen un amplio repertorio y reconocimiento puede atraer a sus seguidores existentes y añadir credibilidad a la nueva canción. Las colaboraciones pueden crear sinergias y abrir nuevas oportunidades para el crecimiento de la audiencia.
 
 - **Disponibilidad en Múltiples Plataformas:** Asegurar que la canción esté disponible en varias plataformas de streaming (como Spotify, Apple Music, Deezer, etc.) maximiza su accesibilidad y alcance. Esto permite a los oyentes encontrar y escuchar la canción en su plataforma preferida, lo que puede aumentar el número total de reproducciones y el impacto general de la canción.
+
+## Recursos
+# Presentación del Proyecto
+[![Ver Presentación](imagenes/presentacion.png)](https://www.canva.com/design/DAGJ7RPWLnk/neHo6qbdwm_Q7NUtSfPK1A/view?utm_content=DAGJ7RPWLnk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
