@@ -12,6 +12,8 @@ Se busca validar y refutar hipótesis con la finalidad de saber que es lo que le
 - [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
 - [Visualización y Análisis de Datos](#visualización-y-análisis-de-datos)
 - [Resultados](#resultados)
+- [Correlación entre variables](#correlación-entre-variables)
+- [Prueba de Significancia](#prueba-de-significancia) 
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
   ## Introducción
@@ -76,7 +78,7 @@ Se crearon dos histogramas en Power BI utilizando Python.
 ![](imagenes/histograma2.jpg)
 
 ## Resultados
-### Correlación entre variables
+## Correlación entre variables
 - **Hipótesis 1**
 - **Correlación streams vs bpm:** -0.0023362
 
@@ -136,6 +138,19 @@ Se crearon dos histogramas en Power BI utilizando Python.
     - *Interpretación:* No hay correlación entre el speechiness (hablabilidad) de la canción y el éxito de la misma.
 
 En resumen, la tabla muestra que hay correlaciones significativas entre el éxito de las canciones en Spotify y su presencia en otras plataformas (Deezer, Apple Music, Shazam), así como la inclusión en playlists y el número total de canciones de un artista. Sin embargo, no hay correlación significativa entre las características musicales específicas de las canciones (como bpm, danceability, valence, energy, etc.) y su éxito.
+
+## Prueba de Significancia
+## Relación entre BPM y Éxito de Canciones en Spotify
+Planteamiento de Hipótesis
+Hipótesis Nula (H0): Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de streams en Spotify.
+Hipótesis Alternativa (H1): Las canciones con un mayor BPM no tienen más éxito en términos de streams en Spotify.
+
+## Conclusiones y recomendaciones
+- **Presencia en Listas de Reproducción:** Aparecer en diversas listas de reproducción y rankings musicales aumenta la visibilidad de la canción y facilita que llegue a un público más amplio. Esto puede lograrse mediante la colaboración con curadores de listas y utilizando estrategias de marketing digital.
+
+- **Colaboración con Artistas Reconocidos:** Trabajar con artistas que tienen un amplio repertorio y reconocimiento puede atraer a sus seguidores existentes y añadir credibilidad a la nueva canción. Las colaboraciones pueden crear sinergias y abrir nuevas oportunidades para el crecimiento de la audiencia.
+
+- **Disponibilidad en Múltiples Plataformas:** Asegurar que la canción esté disponible en varias plataformas de streaming (como Spotify, Apple Music, Deezer, etc.) maximiza su accesibilidad y alcance. Esto permite a los oyentes encontrar y escuchar la canción en su plataforma preferida, lo que puede aumentar el número total de reproducciones y el impacto general de la canción.
 
 
 
