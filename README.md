@@ -158,6 +158,9 @@ En resumen, la tabla muestra que hay correlaciones significativas entre el éxit
 ### Presentación del Proyecto
 [![Ver Presentación](imagenes/presentacion.png)](https://www.canva.com/design/DAGJ7RPWLnk/neHo6qbdwm_Q7NUtSfPK1A/view?utm_content=DAGJ7RPWLnk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+## Google Colab Notebook
+Puedes acceder a mi notebook en Google Colab haciendo clic [aquí](https://colab.research.google.com/drive/17cAeL7ujk76bEFqak3T37nXNFNcJIhUu#scrollTo=jBcSpuqunEbR).
+
 
 
 
