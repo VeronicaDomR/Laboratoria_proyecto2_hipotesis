@@ -6,7 +6,6 @@ Se busca validar y refutar hipótesis con la finalidad de saber que es lo que le
 
 # Temas
 - [Introducción](#introducción)
-- [Trabajo en dupla](#trabajo-en-dupla)
 - [Herramientas](#herramientas)
 - [Lenguajes](#lenguajes)
 - [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
@@ -26,7 +25,7 @@ El objetivo de este proyecto es aumentar las posibilidades de éxito de la disco
 - Las características de la canción influyen en el éxito en términos de cantidad de streams en Spotify.
 Y por último, proporcionar recomendaciones estratégicas basadas en los hallazgos.
 
-## Trabajo en dupla
+### Trabajo en dupla
 - Alejandra Martínez 
 - Verónica Domínguez
 
@@ -154,7 +153,7 @@ Hipótesis Alternativa (H1): Las canciones con un mayor BPM no tienen más éxit
 - **Disponibilidad en Múltiples Plataformas:** Asegurar que la canción esté disponible en varias plataformas de streaming (como Spotify, Apple Music, Deezer, etc.) maximiza su accesibilidad y alcance. Esto permite a los oyentes encontrar y escuchar la canción en su plataforma preferida, lo que puede aumentar el número total de reproducciones y el impacto general de la canción.
 
 ## Recursos
-# Presentación del Proyecto
+### Presentación del Proyecto
 [![Ver Presentación](imagenes/presentacion.png)](https://www.canva.com/design/DAGJ7RPWLnk/neHo6qbdwm_Q7NUtSfPK1A/view?utm_content=DAGJ7RPWLnk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
