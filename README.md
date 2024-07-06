@@ -141,9 +141,11 @@ En resumen, la tabla muestra que hay correlaciones significativas entre el éxit
 
 ## Prueba de Significancia
 ## Relación entre BPM y Éxito de Canciones en Spotify
-Planteamiento de Hipótesis
-Hipótesis Nula (H0): Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de streams en Spotify.
-Hipótesis Alternativa (H1): Las canciones con un mayor BPM no tienen más éxito en términos de streams en Spotify.
+**Planteamiento de Hipótesis**
+
+-*Hipótesis Nula (H0):* Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de streams en Spotify.
+
+-*Hipótesis Alternativa (H1):* Las canciones con un mayor BPM no tienen más éxito en términos de streams en Spotify.
 
 ## Conclusiones y recomendaciones
 - **Presencia en Listas de Reproducción:** Aparecer en diversas listas de reproducción y rankings musicales aumenta la visibilidad de la canción y facilita que llegue a un público más amplio. Esto puede lograrse mediante la colaboración con curadores de listas y utilizando estrategias de marketing digital.
