@@ -26,8 +26,8 @@ El objetivo de este proyecto es aumentar las posibilidades de éxito de la disco
 Y por último, proporcionar recomendaciones estratégicas basadas en los hallazgos.
 
 ### Trabajo en dupla
-- Alejandra Martínez 
-- Verónica Domínguez
+- [Alejandra Martínez](https://github.com/Al3jandraMtz)
+- [Verónica Domínguez](https://github.com/tu-enlace-aqui)
 
 ## Herramientas
 - BigQuery
