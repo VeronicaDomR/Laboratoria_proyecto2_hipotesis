@@ -147,6 +147,23 @@ En resumen, la tabla muestra que hay correlaciones significativas entre el éxit
 
 -*Hipótesis Alternativa (H1):* Las canciones con un mayor BPM no tienen más éxito en términos de streams en Spotify.
 
+Para evaluar nuestras hipótesis, seleccionamos un nivel de confianza del 95% (α = 0.05). Utilizamos dos pruebas estadísticas según la distribución de nuestros datos:
+- **Prueba t de Student:** Para comparar la diferencia de medias entre dos grupos con distribución normal.
+- **Prueba U de Mann-Whitney:** Para comparar dos grupos cuando no se cumple la suposición de normalidad.
+
+En resumen, los resultados indican que la cantidad de streams (alta o baja) no parece tener un impacto significativo en los BPM de las canciones analizadas.
+
+  ![](imagenes/tests.png)
+
+Se presentan estadísticas descriptivas de diferentes características musicales basadas en los datos de streams, útiles para analizar patrones en el comportamiento y preferencias de streaming musical:
+
+- Tiempo: Velocidad o ritmo de la música.
+- Energía: Intensidad y actividad percibida.
+- Danceability: Facilidad con la que se puede bailar al ritmo de la música.
+- Loudness: Volumen general de la música.
+- Valence: Positividad transmitida por la música.
+- Acousticness: Nivel de acústica o sonidos no amplificados.
+
 ## Conclusiones y recomendaciones
 - **Presencia en Listas de Reproducción:** Aparecer en diversas listas de reproducción y rankings musicales aumenta la visibilidad de la canción y facilita que llegue a un público más amplio. Esto puede lograrse mediante la colaboración con curadores de listas y utilizando estrategias de marketing digital.
 
