@@ -4,8 +4,17 @@ Se busca validar y refutar hipótesis con la finalidad de saber que es lo que le
 
 ![](imagenes/streaming_musica.jpeg)
 
-#### Introducción
-Introducción
+# Temas
+- [Introducción](#introducción)
+- [Trabajo en dupla](#trabajo-en-dupla)
+- [Herramientas](#herramientas)
+- [Lenguajes](#lenguajes)
+- [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
+- [Visualización y Análisis de Datos](#visualización-y-análisis-de-datos)
+- [Resultados](#resultados)
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+
+  ## Introducción
 El objetivo de este proyecto es aumentar las posibilidades de éxito de la discográfica y del nuevo artista mediante el análisis de una base de datos de Spotify. Para lograr esto, se busca refutar o confirmar las siguientes hipótesis:
 - Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de cantidad de streams en Spotify.
 - Las canciones más populares en el ranking de Spotify también tienen un comportamiento similar en otras plataformas como Deezer.
@@ -13,6 +22,7 @@ El objetivo de este proyecto es aumentar las posibilidades de éxito de la disco
 - Los artistas con un mayor número de canciones en Spotify tienen más streams.
 - Las características de la canción influyen en el éxito en términos de cantidad de streams en Spotify.
 Y por último, proporcionar recomendaciones estratégicas basadas en los hallazgos.
+
 #### Trabajo en dupla
 - Alejandra Martínez 
 - Verónica Domínguez
