@@ -182,9 +182,6 @@ Puedes acceder a mi notebook en Google Colab haciendo clic [aquí](https://colab
 
 Puedes acceder al PDF de mi dashboard de Power BI haciendo clic [aquí](https://acrobat.adobe.com/id/urn:aaid:sc:us:393df085-797b-488d-86f8-1acccc701472).
 
-## BigQuery
-
-Puedes acceder a mis consultas de BigQueryhaciendo clic [aquí](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sproyectospotify-426316!2sdataset)
 
 
 
